@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 
 // example 0 - first program
-Console.WriteLine("Hello World!");
+//Console.WriteLine("Hello World!");
 // Console.ReadKey();
 // Debug.WriteLine("Hello World!");
 
