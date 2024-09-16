@@ -15,7 +15,7 @@ int y;
 x = 3;
 y = 4;
 int sum = x + y;
-Console.WriteLine("x + y is " + sum);
+//Console.WriteLine("x + y is " + sum);
 
 // obtaining user input
 Console.WriteLine("Please provide your integer input");
